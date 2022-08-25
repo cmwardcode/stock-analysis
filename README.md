@@ -134,8 +134,11 @@ End Sub
 ```
 ### Results
 The results were that the refactored code did run faster than the original. The improvement in speed was an average of a 14% increase for 2017 stock data and 16% increase for 2018. The images of run time for the refactored code are shown below.
+
 ![VBA_Challenge_2017]( https://github.com/cmwardcode/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
 ![VBA_Challenge_2018]( https://github.com/cmwardcode/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
 ## Summary
 ### Advantages
 The advantage of refactoring the code is ultimately creating a better code and to decrease the run time of the VBA script.  Other advantages are a cleaner code reduces complexity for other users understanding. It is easier to maintain and requires less time to update and support which can lower costs. 
