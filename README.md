@@ -1,6 +1,8 @@
 # An Analysis of Stocks Through Refactoring
 ## Overview of Project
-Excel VBA Developer was used to program an Excel workbook to analyze stock dataset. After the initial code was written it underwent refactoring to loop through data once and decrease run time. 
+Excel VBA Developer was used to program an Excel workbook to analyze stock dataset. After the initial code was written it underwent refactoring to loop through data once and decrease run time. Deliverable 1: Refactor VBA code and measure performance Deliverable 2: Written analysis of results (README)
+## Skill Development
+Create a VBA macro that triggers pop-ups and inputs, read and change cell values, and format cells; use ```for``` loops and conditionals to direct logic flow; use nested ```for``` loops; apply coding skills such as syntax recollection, pattern recognition, problem decomposition, and debugging.
 ### Purpose and Background
 Provided with a stock dataset, client requested a user-friendly analysis be developed and ran at the click of a button. The dataset provided included two years of data, 2017 and 2018. Each sheet included 13 tickers, date, open, high, low, close, adj close and volume.  A simple test macro was written and ran. Upon successfully running testing the macro and analysis sheet was then created, “DQ Analysis” for which the client wanted to focus on this ticker and find out the total volume and return for each year that could be ran by clicking a button and then selecting a year. A second sheet was added to analyze all stock tickers, “All Stock Analysis.” On this sheet a code was developed to analyze the total volume for each of the other 12 tickers and the return. The return was color coded to visualize a positive or negative return. The sheet could be run by a button and entering a year to analyze. After creating this analysis, the code was then refactored to analyze the “All Stocks Analysis” in less time with its own run button.
 ## Analysis and Results 
